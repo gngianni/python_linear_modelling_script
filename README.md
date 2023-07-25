@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gngianni/machine_learning_apps/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gngianni/python_linear_modelling_script/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
